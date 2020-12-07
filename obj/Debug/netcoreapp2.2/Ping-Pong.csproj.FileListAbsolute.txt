@@ -1,0 +1,11 @@
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/Ping-Pong/obj/Debug/netcoreapp2.2/Ping-Pong.csprojAssemblyReference.cache
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/Ping-Pong/obj/Debug/netcoreapp2.2/Ping-Pong.csproj.CoreCompileInputs.cache
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/Ping-Pong/obj/Debug/netcoreapp2.2/Ping-Pong.AssemblyInfoInputs.cache
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/Ping-Pong/obj/Debug/netcoreapp2.2/Ping-Pong.AssemblyInfo.cs
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/Ping-Pong/bin/Debug/netcoreapp2.2/Ping-Pong.deps.json
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/Ping-Pong/bin/Debug/netcoreapp2.2/Ping-Pong.runtimeconfig.json
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/Ping-Pong/bin/Debug/netcoreapp2.2/Ping-Pong.runtimeconfig.dev.json
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/Ping-Pong/bin/Debug/netcoreapp2.2/Ping-Pong.dll
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/Ping-Pong/bin/Debug/netcoreapp2.2/Ping-Pong.pdb
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/Ping-Pong/obj/Debug/netcoreapp2.2/Ping-Pong.dll
+/Users/mandystar/Desktop/Coding/Epicodus/Week8/Ping-Pong/obj/Debug/netcoreapp2.2/Ping-Pong.pdb
