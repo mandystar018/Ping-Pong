@@ -4,7 +4,7 @@ class PingPong
 {
   static void Main()
   {
-    Console.WriteLine("Enter a number")
+    Console.WriteLine("Enter a number");
     string userNumber = Console.ReadLine();
     int number = int.Parse(userNumber);
 
