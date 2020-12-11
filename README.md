@@ -1,6 +1,6 @@
 # <span style="color:#0ec2b8">_Ping-Pong_</span>
 
-#### _ Prime-Sifting app, 12/07/2020_
+#### _Prime-Sifting app, 12/07/2020_
 
 #### By _**Amanda Otero**_
 
@@ -15,7 +15,7 @@ _Ping-pong is a classic programming exercise that utilizes branching and looping
 
 ## <span style="color:#0ec2b8">Setup/Installation Requirements</span>
 ### <span style="color:#c4f4ef">Open Locally</span>
-1. _Navigate to my [Find And Replace repo](https://github.com/mandystar018/Ping-Pong) to view the project files and commits.
+1. _Navigate to my [Ping-Pong](https://github.com/mandystar018/Ping-Pong) to view the project files and commits.
 2. _Click on the green button labeled "Code"_ to copy repository URL.
 3. _Clone the repository to your local machine_ by opening your machine terminal and using the command "git clone https://github.com/mandystar018/Ping-Pong".
 4. _Navigate to the folder "/FindAndReplace.Tests"/ModelTests/ to see test files._
