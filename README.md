@@ -1,6 +1,6 @@
 # <span style="color:#0ec2b8">_Ping-Pong_</span>
 
-#### _ Prime-Sifting app, 12/07/2020._
+#### _ Prime-Sifting app, 12/07/2020_
 
 #### By _**Amanda Otero**_
 
